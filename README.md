@@ -1,16 +1,16 @@
-<h1 align="left">Empresa de Latam Hecha con Corazon</h1>
+<h1 align="left">Компания Сделано с Сердцем</h1>
 
 ###
 
-<h2 align="left">Acerca de Nosotros</h2>
+<h2 align="left">О нас</h2>
 
 ###
 
-<p align="left">✨ Trabajamos con Corazon para brindar los mejores servicios y conectar al mejor talento de la region.</p>
+<p align="left">✨ Мы работаем с Corazon, чтобы предоставлять лучшие услуги и объединять лучших специалистов в регионе.</p>
 
 ###
 
-<h2 align="left">codifico con</h2>
+<h2 align="left">мы кодируем с</h2>
 
 ###
 
